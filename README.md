@@ -1,5 +1,5 @@
 # Credit-Risk-Analyzer
-**Business Understanding**
+**Business Understanding** <br>
 The loan-providing companies find it hard to give loans to people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company specialising in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
 
  
@@ -20,10 +20,10 @@ All other cases: All other cases when the payment is paid on time. <br>
 
 When a client applies for a loan, there are four types of decisions that could be taken by the client/company):
 
-Approved: The company has approved the loan application. <br>
-Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing which he did not want. <br>
-Refused: The company had rejected the loan (because the client does not meet their requirements etc.). <br>
-Unused offer: The loan has been cancelled by the client but at different stages of the process. <br>
+**Approved:** The company has approved the loan application. <br>
+**Cancelled:**  The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client, he received worse pricing which he did not want. <br>
+**Refused:** The company had rejected the loan (because the client does not meet their requirements etc.). <br>
+**Unused offer:** The loan has been cancelled by the client but at different stages of the process. <br>
  
 
 In this case study, you will use EDA to understand how consumer attributes and loan attributes influence the tendency to default.
